@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/Shobhit1201/Kidney-Disease-Classification-Project
+Author: Shobhit1201
+Author-email: askshobhitarora@gmail.com
+Project-URL: Bug Tracker, https://github.com/Shobhit1201/Kidney-Disease-Classification-Project/issues
+
+# Kidney-Disease-Classification-Project
+Kidney-Disease-Classification-MLFlow-DVC-AWS
